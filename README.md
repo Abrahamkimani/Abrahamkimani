@@ -1,6 +1,5 @@
 # 😎About Me:
 I’m a mobile software engineer, focused on building scalable iOS and Android applications. I enjoy working on real-time systems, payments, and user-focused products that solve practical problems. I’ve built and deployed production apps, including a ride-hailing platform and a laundry service system, and I’m always looking for opportunities to create impactful, high-quality software.
- http://abrahamkimani.github.io/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abraham.kuria.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.abraham___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-kimani-7371391b7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abrahamkimani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrahamkuria9@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?logo=google-chrome&logoColor=white)](https://abrahamkimani.github.io/)
