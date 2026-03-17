@@ -1,0 +1,99 @@
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Abraham Kuria 👋</h1>
+<h3 align="center">Mobile Software Engineer · iOS · Android · Real‑Time Systems</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abraham-kimani-7371391b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abraham%20Kuria-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abrahamkuria9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abrahamkuria9%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://abrahamkimani.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=flat-square&logo=react" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 📱 **Mobile Software Engineer** building production iOS & Android apps  
+- 🚕 Working on **Cab Yetu** — ride‑hailing platform with **10K+ monthly users**  
+- 🧺 Founder & mobile engineer at **Fua Chap Chap** — offline‑first laundry platform  
+- ⚡ Love **real‑time systems**, **payments**, and **performance optimization**
+
+---
+
+### 🧰 Tech Stack
+
+**Mobile**
+
+- Swift · Objective‑C · Kotlin · Flutter · React Native  
+- UIKit · Core Data · Core Location · Android SDK · MVVM · MVC
+
+**Backend & Realtime**
+
+- REST APIs · WebSockets · Firebase (FCM, Realtime DB) · JWT · Session management  
+- Push notifications · Real‑time tracking · Tencent IM
+
+**Tooling & Infra**
+
+- Git · CI/CD · Fastlane · Multi‑env configs · Staged rollouts  
+- M‑Pesa STK Push · Wallet systems · Payment verification
+
+---
+
+### 📱 Featured Live Apps
+
+- 🚕 **Cab Yetu Platform** – production ride‑hailing with real‑time backend  
+  - [iOS TestFlight](https://testflight.apple.com/join/n2YFSqTk) ·
+    [Android Driver](https://play.google.com/store/apps/details?id=com.taxi.yetu.driver) ·
+    [Android User](https://play.google.com/store/apps/details?id=com.taxi.yetuuser)
+
+- 🧺 **Fua Chap Chap** – production laundry platform (offline‑first)  
+  - [Google Play](https://play.google.com/store/apps/details?id=com.fuachapchap.app)
+
+- 🌱 **Open Source & Code** – more projects on my GitHub  
+  - [GitHub Profile](https://github.com/Abrahamkimani)
+
+---
+
+### 🏆 Highlights
+
+- Designed and shipped **real‑time order lifecycle** systems with WebSockets & push notifications  
+- Implemented **offline‑first** architectures for messaging and orders  
+- Reduced crash rate on production apps using **Instruments** and memory profiling  
+- Led developer communities as **GDG On Campus Co‑Lead** and **GDSC Lead (IoT & Blockchain)**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abrahamkimani&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Abraham's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamkimani&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Langs"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abrahamkimani&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+### 🤝 Connect
+
+- 💼 LinkedIn: [abraham-kimani-7371391b7](https://www.linkedin.com/in/abraham-kimani-7371391b7/)  
+- 🌐 Portfolio: [abrahamkimani.github.io](https://abrahamkimani.github.io/)  
+- ✉️ Email: **abrahamkuria9@gmail.com**
