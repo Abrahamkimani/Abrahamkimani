@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a mobile software engineer based in Nairobi, focused on building scalable iOS and Android applications. I enjoy working on real-time systems, payments, and user-focused products that solve practical problems. I’ve built and deployed production apps, including a ride-hailing platform and a laundry service system, and I’m always looking for opportunities to create impactful, high-quality software.
+I’m a mobile software engineer, focused on building scalable iOS and Android applications. I enjoy working on real-time systems, payments, and user-focused products that solve practical problems. I’ve built and deployed production apps, including a ride-hailing platform and a laundry service system, and I’m always looking for opportunities to create impactful, high-quality software.
 
 
 ## 🌐 Socials:
